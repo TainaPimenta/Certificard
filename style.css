@@ -1,0 +1,57 @@
+body {
+  background-image: url("https://c.pxhere.com/photos/09/c0/Art_Background_Colorful_Creative_Design_Geometric_illustration_Shapes-1625560.jpg!d");
+  background-size: cover;
+  /*font-family: sans-serif; */
+  font-family: 'Roboto';
+}
+
+section {
+  -webkit-box-shadow: 5px 5px 50px 8px rgba(0,0,0,0.59); 
+box-shadow: 5px 5px 50px 8px rgba(0,0,0,0.59);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 500px;
+  margin-top: 100px;
+  background-color: white;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+section h1 {
+  font-size: 20px;
+}
+
+header {
+  background-image: url('https://media-exp1.licdn.com/dms/image/C5616AQETFp5yTDAfkA/profile-displaybackgroundimage-shrink_200_800/0/1615257454340?e=1623283200&v=beta&t=joA3TutPmRTaj3l9a9NKvy1QWMomDbWQn9EN9P5w9KA');
+  backgroung-size: cover;
+  height: 80px;
+  border-radius: 5px;
+  
+}
+
+div {
+  padding: 15px;
+  border-radius: 5px;
+  border: 1px solid black;
+  /* propriedade visual: valor   */
+  background-color: #7da0b1;
+  
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  transform: translateY(-50%);
+  /* no transform o % é a altura*/
+  border: 8px solid white;
+  
+}
+
+section h3 {
+  font-size: 15px;
+}
